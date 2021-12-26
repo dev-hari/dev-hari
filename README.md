@@ -16,7 +16,7 @@ def skills_of_hari():
 
 
 
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=haripaudyal101&show_icons=true&theme=ocean_dark)
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hari&show_icons=true&theme=ocean_dark)
 
 🔭 Tools I use Mostly
 

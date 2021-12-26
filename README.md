@@ -7,7 +7,7 @@ Hi, I'm HARI👋
 ```python
 def skills_of_hari():
 
-  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Begineer','Tensorflow':'Beginner'}
+  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Begineer','Tensorflow':'Exploring'}
   tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras','tensorflow','pandas-profiling']
   active_blogger = True
   

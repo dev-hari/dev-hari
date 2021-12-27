@@ -33,7 +33,7 @@ def skills_of_hari():
 <a href="https://twitter.com/haripaudel100" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/haripaudel100/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haripaudel100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hari-paudel-259a7b1b3/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-paudel-259a7b1b3/" height="30" width="40" /></a> 
+  <img align="center" src="https://raw.githubusercontent.com/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-paudel-259a7b1b3/" height="30" width="40" /></a> 
 
 
 

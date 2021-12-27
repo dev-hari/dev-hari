@@ -29,14 +29,12 @@ def skills_of_hari():
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
+<p align="left"> </p>
 <a href="https://twitter.com/haripaudel100" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/haripaudel100/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haripaudel100" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hari8848/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/dev-hari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-paudel-259a7b1b3/" height="30" width="40" />
-  </a> 
+  <img align="center" src="https://raw.githubusercontent.com/dev-hari/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hari-paudel-259a7b1b3/" height="30" width="40"/></a> 
 
-</p>
 
 
 

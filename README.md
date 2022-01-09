@@ -1,6 +1,6 @@
-Hi, I'm HARI👋
+Hi, I'm HARI PAUDEL.👋
 
-⚡I'm a Data Engineer, Google Certified Data Analytics Professional.
+⚡I'm a Self-taught Data Engineer, Google Certified Data Analytics Professional.
 
 ⚡ Outside of work, I do love to spend my time "WORKING OUT" for my  better physique and mental health.
 
@@ -13,9 +13,6 @@ def skills_of_hari():
   
   return ∞
 ```
-
-
-
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hari&show_icons=true&theme=ocean_dark)
 
 Fast.ai :

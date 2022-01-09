@@ -18,6 +18,13 @@ def skills_of_hari():
 
 ![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-hari&show_icons=true&theme=ocean_dark)
 
+Fast.ai :
+```python
+!pip install -Uqq fastbook
+import fastbook
+fastbook.setup_book()
+```
+
 🔭 Tools I use Mostly
 
 <h3 align="left">Languages and Tools:</h3>

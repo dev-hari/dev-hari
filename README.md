@@ -36,3 +36,4 @@ fastbook.setup_book()
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+![](https://img.shields.io/badge/day%20📅-22-blue)	![](https://img.shields.io/badge/stars%20⭐-34-yellow)	

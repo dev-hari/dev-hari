@@ -1,6 +1,6 @@
 Hi, I'm HARI PAUDEL.👋
 
-⚡I'm a Self-taught Developer, Google Certified Data Analytics Professional & now into MLOps and exploring it.
+⚡I'm a Self-taught ML Developer, Google Certified Data Analytics Professional & now into MLOps and exploring it.
 
 ⚡ Outside of work, I do love to spend my time "WORKING OUT" for my  better physique and mental health.
 

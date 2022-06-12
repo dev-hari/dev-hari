@@ -7,8 +7,7 @@ Hi, I'm HARI PAUDEL.👋
 ```python
 def skills_of_hari():
 
-  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','MLOps':'Exploring','Tensorflow':'Exploring'}
-  tools = ['numpy','pandas','sklearn','keras','tensorflow','pandas-profiling']
+  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','MLOps':'Exploring'}
   active_blogger = True
   
   return ∞

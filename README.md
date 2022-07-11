@@ -9,7 +9,7 @@ Hi, I'm HARI PAUDEL.👋
 ```python
 def skills_of_hari():
 
-  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','MLOps':'Exploring'}
+  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','MLOps':'Exploring', 'GraphQL':'Exploring'}
   active_blogger = True
   
   return ∞

@@ -6,6 +6,7 @@ Hi, I'm HARI PAUDEL.👋
 
 ♻  Outside of work, I do love to spend my time "WORKING OUT" for my  better physique and mental health.
 
+(https://camo.githubusercontent.com/08e74a3974dbc3abb5d1969f0057849dccf8a10506878f75866c552f3c22dac7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f32304e4c4d426d30426b554f774e6c6a77762f67697068792e676966)
 ```python
 def skills_of_hari():
 

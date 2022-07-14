@@ -1,3 +1,4 @@
+```js 
 const thisYear = new Date().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
@@ -14,7 +15,8 @@ function generateProgressBar() {
         .map((value, index) => index < passedProgressBarIndex ? '█' : value)
         .join('')
     return `{ ${progressBar} }`
-}
+} ```
+
 Hi, I'm HARI PAUDEL.👋
 
 ❇  I'm a Self-taught ML Developer, Google Certified Data Analytics Professional.

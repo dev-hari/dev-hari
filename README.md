@@ -26,7 +26,11 @@ Fast.ai :
 import fastbook
 fastbook.setup_book()
 ```
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${(new Date().getDate()-1)+'-'+ monthNames[new Date().getMonth()]+'-'+new Date().getFullYear()}
+---
 
 
 🔭 Tools I use Mostly
